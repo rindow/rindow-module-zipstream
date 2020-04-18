@@ -1,0 +1,20 @@
+{
+    "name": "rindow/rindow-web-ZipStream",
+    "type": "library",
+    "description": "Rindow compatible ZipStream PHP Module",
+    "keywords": ["rindow","framework","zip","ZipStream"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.3.3",
+    },
+    "require-dev": {
+    },
+    "suggest": {
+        "rindow/rindow-container": "It needs some service container"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rindow\\Module\\ZipStream\\": "src/"
+        }
+    }
+}
