@@ -5,7 +5,7 @@
     "keywords": ["rindow","framework","zip","ZipStream"],
     "license": "BSD-3-Clause",
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.3.3"
     },
     "require-dev": {
     },
